@@ -24,6 +24,7 @@
   <img aling="center" alt="javascript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
+![snake gif](https://github.com/Dnysss/Dnysss/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Dnysss/Dnysss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
