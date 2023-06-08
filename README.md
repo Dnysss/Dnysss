@@ -1,14 +1,19 @@
 ### Olá Mundo! Eu sou o Denys 👋
 
-Atualmente cursando `Tecnologia em Sistemas para Internet`, na Intituição Federal do Rio Grande do Norte(IFRN).<br/>
-Estou sempre disposto a aprender mais!
+🧑‍💻 Atualmente cursando `Tecnologia em Sistemas para Internet`, na Intituição Federal do Rio Grande do Norte(IFRN).<br/>
+📝Estou sempre disposto a aprender mais!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-michael-31063827a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denysmchl/)
+<img width="150" src="https://media.tenor.com/Ej61YncopSEAAAAM/what-does-it-mean-mysterion.gif" />
+
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-michael-31063827a/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denysmchl/)
+  <a href = "mailto:denysmchl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Dnysss GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnysss&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnysss)](https://github.com/Dnysss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnysss&show_icons=true&theme=dracula)](https://github.com/Dnysss/github-readme-stats)
+<div>
+  
+</div>
 
 ## Tecnologias que eu uso
 <div style="display: inline_block"><br/>
