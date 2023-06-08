@@ -1,6 +1,6 @@
 ### Olá Mundo! Eu sou o Denys 👋
 
-Atualmente cursando `Tecnologia em Sistemas para Internet` na Intituição Federal do Rio Grande do Norte(IFRN).<br/>
+Atualmente cursando `Tecnologia em Sistemas para Internet`, na Intituição Federal do Rio Grande do Norte(IFRN).<br/>
 Estou sempre disposto a aprender mais!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-michael-31063827a/)
