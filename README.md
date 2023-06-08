@@ -1,10 +1,9 @@
 ### Olá Mundo! Eu sou o Denys 👋
 
-Cursando `Tecnologia em Sistemas para Internet` na Intituição Federal do Rio Grande do Norte(IFRN).<br/>
+Atualmente cursando `Tecnologia em Sistemas para Internet` na Intituição Federal do Rio Grande do Norte(IFRN).<br/>
 Estou sempre disposto a aprender mais!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-michael-31063827a/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denysmchl/)
 
 ![Dnysss GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnysss&show_icons=true&theme=dracula)
