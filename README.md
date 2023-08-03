@@ -1,6 +1,6 @@
 ### Olá Mundo! Eu sou o Denys 👋
 
-🧑‍💻 Atualmente cursando `Tecnologia em Sistemas para Internet`, na Intituição Federal do Rio Grande do Norte(IFRN).<br/>
+🧑‍💻 Atualmente cursando `Tecnologia em Sistemas para Internet`, na Instituição Federal do Rio Grande do Norte(IFRN).<br/>
 📝Estou sempre disposto a aprender mais!
 
 <img width="150" src="https://media.tenor.com/Ej61YncopSEAAAAM/what-does-it-mean-mysterion.gif" />
